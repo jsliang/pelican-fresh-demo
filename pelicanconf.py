@@ -3,7 +3,7 @@
 
 AUTHOR = u'jsliang'
 SITENAME = u'Fresh: a responsive Pelican theme that uses HTML5'
-SITEURL = ''
+SITEURL = 'http://jsliang.com/pelican-fresh-demo'
 
 TIMEZONE = 'Asia/Taipei'
 
