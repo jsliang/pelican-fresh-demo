@@ -25,7 +25,7 @@ THEME = 'pelican-fresh'
 
 DISQUS_SITENAME = "jsliang"
 
-GITHUB_URL = "http://github.com/jsliang/pelican-fresh"
+GITHUB_URL = "http://github.com/jsliang/pelican-fresh-demo"
 
 HIDE_CATEGORIES_FROM_MENU = False
 
