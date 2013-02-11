@@ -27,7 +27,7 @@ DISQUS_SITENAME = "jsliang"
 
 GITHUB_URL = "http://github.com/jsliang/pelican-fresh"
 
-HIDE_CATEGORIES_FROM_MENU = True
+HIDE_CATEGORIES_FROM_MENU = False
 
 MENUITEMS = [('Archives', '/archives.html')]
 
