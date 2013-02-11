@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fresh: a responsive Pelican theme that uses HTML5</title><link href="/" rel="alternate"></link><link href="/feeds/Web%20Design.atom.xml" rel="self"></link><id>/</id><updated>2013-02-12T00:00:00+08:00</updated><entry><title>Theme Demo Post</title><link href="/theme-demo-post.html" rel="alternate"></link><updated>2013-02-12T00:00:00+08:00</updated><author><name>jsliang</name></author><id>tag:,2013-02-12:theme-demo-post.html</id><summary type="html">&lt;h2&gt;Paragraph, Link, Bold, Italics&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.lipsum.com/"&gt;Lorem ipsum&lt;/a&gt; dolor sit amet, &lt;em&gt;consectetur adipisicing elit&lt;/em&gt;, sed do &lt;strong&gt;eiusmod&lt;/strong&gt; tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h1&gt;h1 heading&lt;/h1&gt;
+&lt;h2&gt;h2 heading&lt;/h2&gt;
+&lt;h3&gt;h3 heading&lt;/h3&gt;
+&lt;h4&gt;h4 heading&lt;/h4&gt;
+&lt;h5&gt;h5 heading&lt;/h5&gt;
+&lt;h6&gt;h6 heading&lt;/h6&gt;
+&lt;h2&gt;Unordered List&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apple&lt;/li&gt;
+&lt;li&gt;ball&lt;/li&gt;
+&lt;li&gt;cat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ordered List&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;apple&lt;/li&gt;
+&lt;li&gt;ball&lt;/li&gt;
+&lt;li&gt;cat&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Quotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;-- "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="Pelican"></category><category term="theme"></category></entry></feed>
