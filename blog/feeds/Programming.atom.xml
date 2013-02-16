@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Fresh: a responsive Pelican theme that uses HTML5</title><link href="http://jsliang.com/pelican-fresh-demo/blog/" rel="alternate"></link><link href="http://jsliang.com/pelican-fresh-demo/blog/feeds/all.atom.xml" rel="self"></link><id>http://jsliang.com/pelican-fresh-demo/blog/</id><updated>2013-02-17T02:11:53+08:00</updated><entry><title>Codes Demo</title><link href="http://jsliang.com/pelican-fresh-demo/blog/codes-demo.html" rel="alternate"></link><updated>2013-02-17T02:11:53+08:00</updated><author><name>jsliang</name></author><id>tag:jsliang.com/pelican-fresh-demo/blog,2013-02-17:codes-demo.html</id><summary type="html">&lt;p&gt;Hello World program sources from &lt;a href="http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples"&gt;Wikipedia: List of Hello world program examples&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fresh: a responsive Pelican theme that uses HTML5</title><link href="http://jsliang.com/pelican-fresh-demo/blog/" rel="alternate"></link><link href="http://jsliang.com/pelican-fresh-demo/blog/feeds/Programming.atom.xml" rel="self"></link><id>http://jsliang.com/pelican-fresh-demo/blog/</id><updated>2013-02-17T02:11:53+08:00</updated><entry><title>Codes Demo</title><link href="http://jsliang.com/pelican-fresh-demo/blog/codes-demo.html" rel="alternate"></link><updated>2013-02-17T02:11:53+08:00</updated><author><name>jsliang</name></author><id>tag:jsliang.com/pelican-fresh-demo/blog,2013-02-17:codes-demo.html</id><summary type="html">&lt;p&gt;Hello World program sources from &lt;a href="http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples"&gt;Wikipedia: List of Hello world program examples&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;&lt;a href="http://en.wikipedia.org/wiki/Ada_(programming_language)"&gt;Ada&lt;/a&gt;&lt;/h1&gt;
 &lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;Ada&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Text_IO&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 
@@ -104,32 +104,4 @@ Hello, world!
 &lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="n"&gt;SELECT&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt; &lt;span class="n"&gt;FROM&lt;/span&gt; &lt;span class="n"&gt;DUMMY&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt; &lt;span class="n"&gt;DUMMY&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;table&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;SAP&lt;/span&gt; &lt;span class="n"&gt;HANA&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
 &lt;span class="n"&gt;SELECT&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt; &lt;span class="n"&gt;FROM&lt;/span&gt; &lt;span class="n"&gt;DUAL&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt; &lt;span class="n"&gt;DUAL&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;table&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Oracle&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
 &lt;span class="n"&gt;SELECT&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;SQL&lt;/span&gt; &lt;span class="n"&gt;Server&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="Pelican"></category><category term="theme"></category><category term="programming"></category></entry><entry><title>Theme Demo Post</title><link href="http://jsliang.com/pelican-fresh-demo/blog/theme-demo-post.html" rel="alternate"></link><updated>2013-02-12T00:00:00+08:00</updated><author><name>jsliang</name></author><id>tag:jsliang.com/pelican-fresh-demo/blog,2013-02-12:theme-demo-post.html</id><summary type="html">&lt;h2&gt;Paragraph, Link, Bold, Italics&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://www.lipsum.com/"&gt;Lorem ipsum&lt;/a&gt; dolor sit amet, &lt;em&gt;consectetur adipisicing elit&lt;/em&gt;, sed do &lt;strong&gt;eiusmod&lt;/strong&gt; tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
-&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;h1&gt;h1 heading&lt;/h1&gt;
-&lt;h2&gt;h2 heading&lt;/h2&gt;
-&lt;h3&gt;h3 heading&lt;/h3&gt;
-&lt;h4&gt;h4 heading&lt;/h4&gt;
-&lt;h5&gt;h5 heading&lt;/h5&gt;
-&lt;h6&gt;h6 heading&lt;/h6&gt;
-&lt;h2&gt;Unordered List&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;apple&lt;/li&gt;
-&lt;li&gt;ball&lt;/li&gt;
-&lt;li&gt;cat&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered List&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;apple&lt;/li&gt;
-&lt;li&gt;ball&lt;/li&gt;
-&lt;li&gt;cat&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Quotes&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
-&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;p&gt;-- "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="Pelican"></category><category term="theme"></category></entry></feed>
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="Pelican"></category><category term="theme"></category><category term="programming"></category></entry></feed>
