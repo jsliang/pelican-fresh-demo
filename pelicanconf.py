@@ -5,6 +5,8 @@ AUTHOR = u'jsliang'
 SITENAME = u'Fresh: a responsive Pelican theme that uses HTML5'
 SITEURL = 'http://jsliang.com/pelican-fresh-demo/blog'
 
+FEED_DOMAIN = SITEURL
+
 TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'en'
@@ -33,3 +35,4 @@ MENUITEMS = [('Archives', '%s/archives.html' % SITEURL)]
 
 GOOGLE_ANALYTICS = "UA-37740364-1"
 GOOGLE_CUSTOM_SEARCH = "000728178517198415282:4k49jvwgnvy"
+
