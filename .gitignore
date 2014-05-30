@@ -1,4 +1,5 @@
+*.pyc
 *.sass-cache
 *.scss
-*.pyc
-
+.DS_Store
+pelican
